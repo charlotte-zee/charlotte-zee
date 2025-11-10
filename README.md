@@ -15,9 +15,10 @@
 ---
 
 ### 🌸 About Me  
-> 🌙 Calm coder who finds beauty in quiet moments  
+> 🌙 Exploring C# and .NET desktop development    
 > 💡 Exploring C# & .NET to make small, meaningful tools  
-> ✨ Obsessed with clean code, cozy UI, and futuristic simplicity  
+> ✨ Experimenting with automation and extensions
+> 🖥️ Quietly building in the background   
 > 🎧 Often found coding with anime OSTs and coffee  
 
 ---
