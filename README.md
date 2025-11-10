@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=480&lines=Creating+in+silence...;Building+with+passion+and+purpose.;Fueled+by+coffee,+dreams,+and+code." alt="Typing Animation"/>
 </p>
 
-<hr style="border: 1px solid #00CFFF; opacity: 0.4; border-radius: 2px;">
+<img src="https://raw.githubusercontent.com/rohan-rawat-2308/assets/main/blue-glow-divider.gif" width="100%" alt="glowing divider"/>
+
+---
 
 ### 🌸 About Me  
 > 🌙 Calm coder who finds beauty in quiet moments  
@@ -77,7 +79,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00CFFF&center=true&vCenter=true&width=500&lines=Silence+and+focus+—+that's+how+creation+happens." alt="animated quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&color=00CFFF&center=true&vCenter=true&width=600&lines=Silence+and+focus+--+thats+how+creation+happens.;Create+quietly,+let+your+work+speak." alt="animated quote"/>
 </p>
 
-<hr style="border: 1px solid #00CFFF; opacity: 0.4; border-radius: 2px;">
+<img src="https://raw.githubusercontent.com/rohan-rawat-2308/assets/main/blue-glow-divider.gif" width="100%" alt="glowing divider"/>
