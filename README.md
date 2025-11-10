@@ -81,6 +81,7 @@
 <h1 align="center">
   <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="Charlotte Zee Banner"/>
 </h1>
+
 ---
 
 <p align="center">
