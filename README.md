@@ -8,11 +8,10 @@
 ---
 
 ### 🌑 About Me  
-> 🧠 Focused on C# + .NET desktop development  
-> 🧩 Building minimal tools with practical purpose  
-> 🌙 Prefers the calm of midnight coding sessions  
-> 💬 Always experimenting, always improving  
-
+> ⚙️ Exploring C# and .NET desktop development  
+> 💡 Turning ideas into small functional tools  
+> 💬 Experimenting with automation and extensions  
+> 🌌 Quietly building in the background  
 ---
 
 ### ⚙️ Languages & Tools
