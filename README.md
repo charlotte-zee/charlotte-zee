@@ -1,6 +1,6 @@
 <!-- 🌙 Charlotte Zee | Anime Cybercore README -->
 <h1 align="center">
-  <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="Charlotte Zee Banner"/>
+  <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-244085.gif" width="100%" alt="Charlotte Zee Banner"/>
 </h1>
 
 <h1 align="center">🌙 Hey there, I'm <b>Charlotte Zee</b></h1>
