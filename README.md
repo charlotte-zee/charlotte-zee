@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/FT2zjvT.gif" width="100%" alt="divider"/>
+  <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="divider"/>
 </p>
 
 ---
@@ -95,5 +95,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/FT2zjvT.gif" width="100%" alt="divider"/>
+  <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="divider"/>
 </p>
