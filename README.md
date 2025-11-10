@@ -1,17 +1,29 @@
-<h1 align="center">🌙 Hey there, I'm <b>Charlotte Zee</b></h1>
-<h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | ☕ Fueled by caffeine and late-night code</h3>
+<!-- 🌙 Charlotte Zee | Anime Cybercore README -->
+<h1 align="center">
+  <img src="https://i.imgur.com/6YV7FZt.gif" width="25"/> 
+  Hey there, I'm <b>Charlotte Zee</b>
+  <img src="https://i.imgur.com/6YV7FZt.gif" width="25"/>
+</h1>
+
+<h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | ☕ Late-night code & lo-fi dreams</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=460&lines=Creating+in+silence...;Building+small+things+with+big+care.;Fueled+by+coffee+and+curiosity.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=480&lines=Creating+in+silence...;Building+with+passion+and+purpose.;Fueled+by+coffee,+dreams,+and+code.">
 </p>
 
 ---
 
-### 🌌 About Me  
-> 🧠 Focused on C# + .NET desktop development  
-> 💡 Building small utilities that make life smoother  
-> 🌙 Prefers coding in the calm of night  
-> 💬 Always learning, always evolving  
+<p align="center">
+  <img src="https://i.imgur.com/FT2zjvT.gif" width="100%" alt="divider"/>
+</p>
+
+---
+
+### 🌸 About Me  
+> 🌙 Calm coder who finds beauty in quiet moments  
+> 💡 Exploring C# & .NET to make small, meaningful tools  
+> ✨ Obsessed with clean code, cozy UI, and futuristic simplicity  
+> 🎧 Often found coding with anime OSTs and coffee  
 
 ---
 
@@ -20,19 +32,26 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github" height="50" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-00CFFF?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5E17EB?style=for-the-badge&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
 ---
 
 ### 🌱 Currently Learning
 - WinForms / WPF / WinUI in C#  
-- Crafting modern desktop UIs  
-- Small-scale automation tools  
+- Crafting modern and minimal desktop experiences  
+- Small-scale automation and data-driven utilities  
 
 ---
 
 ### 🚀 Featured Projects
-- 🧩 [**DefCon**](https://github.com/charlotte-zee/DefCon) – Simulates a loading process while managing Defender settings  
-- 💬 [**Discord Token Finder**](https://github.com/charlotte-zee/Discord-Token-Finder) – Small utility for Discord devs  
-- 💎 [**QC Ultra KIWI**](https://github.com/charlotte-zee/qc-ultra-kiwi) – English-friendly extension loader for QC Ultra  
+- 🧩 [**DefCon**](https://github.com/charlotte-zee/DefCon) — Simulates a loading process while managing Defender settings  
+- 💬 [**Discord Token Finder**](https://github.com/charlotte-zee/Discord-Token-Finder) — Small utility for Discord devs  
+- 💎 [**QC Ultra KIWI**](https://github.com/charlotte-zee/qc-ultra-kiwi) — English-friendly extension loader for QC Ultra  
 
 ---
 
@@ -45,8 +64,17 @@
 
 ---
 
+### 🌐 Connect With Me
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charlotte-zee&label=Profile+Views&color=00CFFF&style=flat-square" alt="Profile Views"/>
+  <a href="https://discord.com/users/830939411809697823" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=charlotte-zee&label=Visitors&color=00CFFF&style=flat-square" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -64,4 +92,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00CFFF&center=true&vCenter=true&width=500&lines=“Silence+and+focus+—+that’s+how+creation+happens.”" alt="animated quote" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/FT2zjvT.gif" width="100%" alt="divider"/>
 </p>
