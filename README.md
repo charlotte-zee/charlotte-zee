@@ -3,7 +3,7 @@
   <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-244085.gif" width="100%" alt="Charlotte Zee Banner"/>
 </h1>
 
-<h1 align="center">🌙 Hey there, I'm <b>Charlotte Zee</b></h1>
+<h1 align="center">🌙 <b>Charlotte Zee</b></h1>
 <h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | ☕ Building small tools & experiments</h3>
 
 <p align="center">
