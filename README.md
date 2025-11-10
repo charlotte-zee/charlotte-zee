@@ -1,6 +1,6 @@
 <!-- 🌙 Charlotte Zee | Anime Cybercore README -->
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/attachments/1412224743280611399/1436181930268688475/anime_girl_ultra.png?ex=6911f7e7&is=6910a667&hm=191e0cf1c31a71d2d7ce52afe72e3ba3446b039ea0473397b18dfa98a1939011&" width="100%" alt="Charlotte Zee Banner"/>
+  <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="Charlotte Zee Banner"/>
 </h1>
 
 <h1 align="center">🌙 Hey there, I'm <b>Charlotte Zee</b></h1>
