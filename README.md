@@ -1,53 +1,55 @@
-<h1 align="center">Hey 👋, I'm Charlotte Zee</h1>
-<h3 align="center">💻 Cyber Geek | Learning C# | Building small tools & experiments</h3>
+<h1 align="center">🌙 Hey there, I'm <b>Charlotte Zee</b></h1>
+<h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | ☕ Building small tools & experiments</h3>
 
 <p align="center">
-  🌍 From India • 🧠 Curious learner • ☕ Fueled by caffeine & code
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD1F0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;C%23+is+my+current+playground.;Exploring+.NET+and+WinUI.;Fueled+by+coffee+and+curiosity.">
 </p>
 
 ---
 
+### 🪄 About Me  
+> 🌍 From India  
+> 💡 Curious learner diving into C# and Windows development  
+> 🔧 Making small experimental utilities  
+> 💬 Always exploring new tech, ideas, and code aesthetics
+
+---
+
 ### 🧰 Languages & Tools
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github" height="48" />
 </p>
 
 ---
 
 ### 🌱 Currently Learning
-- C# & .NET desktop development (WinForms / WPF / WinUI)
-- Making small utilities and extensions
+- WinForms / WPF / WinUI in C#
+- Making extensions & small utilities
 - Exploring automation and modding tools
 
 ---
 
-### ⚡ Featured Projects
-- 🧩 [DefCon](https://github.com/charlotte-zee/DefCon)
-- 💬 [Discord Token Finder](https://github.com/charlotte-zee/Discord-Token-Finder)
-- 🚀 [QC Ultra KIWI](https://github.com/charlotte-zee/qc-ultra-kiwi)
+### 🚀 Featured Projects
+- 🧩 [**DefCon**](https://github.com/charlotte-zee/DefCon) – Simulates a loading process while managing Defender settings  
+- 💬 [**Discord Token Finder**](https://github.com/charlotte-zee/Discord-Token-Finder) – A small utility for Discord devs  
+- 💎 [**QC Ultra KIWI**](https://github.com/charlotte-zee/qc-ultra-kiwi) – Extension loader for QC Ultra, English-friendly UI  
 
 ---
 
 ### ☕ Support Me
-<p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/kiwibird" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kiwibird" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charlotte-zee&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=charlotte-zee&label=Profile+Views&color=6AD1F0&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=charlotte-zee&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlotte-zee&layout=compact&theme=tokyonight&hide_border=true" width="49%">
 </p>
