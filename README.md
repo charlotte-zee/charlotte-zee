@@ -76,7 +76,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlotte-zee&theme=midnight-purple&hide_border=true&border_radius=10" width="85%">
 </p>
 
---
+---
 
 <h1 align="center">
   <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="Charlotte Zee Banner"/>
