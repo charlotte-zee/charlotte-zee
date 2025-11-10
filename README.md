@@ -1,42 +1,28 @@
 <!-- 🌙 Charlotte Zee | Anime Cybercore README -->
 <h1 align="center">
-  <img src="https://i.imgur.com/6YV7FZt.gif" width="25"/> 
-  Hey there, I'm <b>Charlotte Zee</b>
-  <img src="https://i.imgur.com/6YV7FZt.gif" width="25"/>
+  <img src="https://raw.githubusercontent.com/charlotte-zee/charlotte-zee/main/charlotte-banner.png" width="100%" alt="Charlotte Zee Banner"/>
 </h1>
 
+<h1 align="center">🌙 Hey there, I'm <b>Charlotte Zee</b></h1>
 <h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | ☕ Late-night code & lo-fi dreams</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=480&lines=Creating+in+silence...;Building+with+passion+and+purpose.;Fueled+by+coffee,+dreams,+and+code.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=480&lines=Creating+in+silence...;Building+with+passion+and+purpose.;Fueled+by+coffee,+dreams,+and+code." alt="Typing Animation"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="divider"/>
-</p>
-
----
+<hr style="border: 1px solid #00CFFF; opacity: 0.4; border-radius: 2px;">
 
 ### 🌸 About Me  
-> ⚙️ Exploring C# and .NET desktop development  
-> 💡 Turning ideas into small functional tools  
-> 💬 Experimenting with automation and extensions  
-> 🌌 Quietly building in the background  
+> 🌙 Calm coder who finds beauty in quiet moments  
+> 💡 Exploring C# & .NET to make small, meaningful tools  
+> ✨ Obsessed with clean code, cozy UI, and futuristic simplicity  
+> 🎧 Often found coding with anime OSTs and coffee  
 
 ---
 
 ### ⚙️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,github" height="50" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-00CFFF?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-0078D7?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5E17EB?style=for-the-badge&logo=visualstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
@@ -91,9 +77,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00CFFF&center=true&vCenter=true&width=500&lines=“Silence+and+focus+—+that’s+how+creation+happens.”" alt="animated quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00CFFF&center=true&vCenter=true&width=500&lines=Silence+and+focus+—+that's+how+creation+happens." alt="animated quote"/>
 </p>
 
-<p align="center">
-  <img src="https://www.picgifs.com/divider/lines/glitter/lines-glitter-220005.gif" width="100%" alt="divider"/>
-</p>
+<hr style="border: 1px solid #00CFFF; opacity: 0.4; border-radius: 2px;">
