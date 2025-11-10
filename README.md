@@ -2,16 +2,16 @@
 <h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | ☕ Building small tools & experiments</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD1F0&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;C%23+is+my+current+playground.;Exploring+.NET+and+WinUI.;Fueled+by+coffee+and+curiosity.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6AD1F0&center=true&vCenter=true&width=435&lines=Fueled+by+coffee+and+curiosity.;Crafting+tiny+ideas+into+working+code.;Always+learning.+Always+building.">
 </p>
 
 ---
 
 ### 🪄 About Me  
-> 🌍 From India  
-> 💡 Curious learner diving into C# and Windows development  
-> 🔧 Making small experimental utilities  
-> 💬 Always exploring new tech, ideas, and code aesthetics
+> ⚙️ Exploring C# and .NET desktop development  
+> 💡 Turning ideas into small functional tools  
+> 💬 Experimenting with automation and extensions  
+> 🌌 Quietly building in the background  
 
 ---
 
@@ -23,15 +23,15 @@
 ---
 
 ### 🌱 Currently Learning
-- WinForms / WPF / WinUI in C#
-- Making extensions & small utilities
-- Exploring automation and modding tools
+- WinForms / WPF / WinUI with C#
+- Custom UI and utility design
+- Improving code structure & clean architecture
 
 ---
 
 ### 🚀 Featured Projects
 - 🧩 [**DefCon**](https://github.com/charlotte-zee/DefCon) – Simulates a loading process while managing Defender settings  
-- 💬 [**Discord Token Finder**](https://github.com/charlotte-zee/Discord-Token-Finder) – A small utility for Discord devs  
+- 💬 [**Discord Token Finder**](https://github.com/charlotte-zee/Discord-Token-Finder) – Small dev utility for Discord  
 - 💎 [**QC Ultra KIWI**](https://github.com/charlotte-zee/qc-ultra-kiwi) – Extension loader for QC Ultra, English-friendly UI  
 
 ---
