@@ -40,7 +40,7 @@
 ### 🚀 Featured Projects
 - 🧩 [**DefCon**](https://github.com/charlotte-zee/DefCon) — Simulates a loading process while managing Defender settings  
 - 💬 [**Discord Token Finder**](https://github.com/charlotte-zee/Discord-Token-Finder) — Small utility for Discord devs  
-- 💎 [**QC Ultra KIWI**](https://github.com/charlotte-zee/qc-ultra-kiwi) — English-friendly extension loader for QC Ultra  
+- 💎 [**QC Ultra KIWI**](https://github.com/charlotte-zee/qc-ultra-kiwi) — English extension loader for QC Ultra  
 
 ---
 
