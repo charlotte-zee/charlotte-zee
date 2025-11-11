@@ -15,7 +15,6 @@
 ---
 
 ### 🌸 About Me  
-> 🌙 Exploring C# and .NET desktop development    
 > 💡 Exploring C# & .NET to make small, meaningful tools  
 > ✨ Experimenting with automation and extensions
 > 🖥️ Quietly building in the background   
