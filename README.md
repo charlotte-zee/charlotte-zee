@@ -18,7 +18,7 @@
 > 💡 Exploring C# & .NET to make small, meaningful tools  
 > ✨ Experimenting with automation and extensions
 > 🖥️ Quietly building in the background   
-> 🎧 Often found coding with anime OSTs and coffee  
+> 🎧 Often found vibe coding with anime OSTs and coffee  
 
 ---
 
