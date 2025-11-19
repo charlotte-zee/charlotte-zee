@@ -4,7 +4,7 @@
 </h1>
 
 <h1 align="center">🌙 <b>Charlotte Zee</b></h1>
-<h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | ☕ Building small tools & experiments</h3>
+<h3 align="center">💻 Cyber Geek | ⚙️ Learning C# | {} Vibe Coder |☕ Building small tools & experiments</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00CFFF&center=true&vCenter=true&width=480&lines=Creating+in+silence...;Building+with+passion+and+purpose.;Fueled+by+coffee,+dreams,+and+code." alt="Typing Animation"/>
