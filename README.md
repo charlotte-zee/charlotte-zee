@@ -21,7 +21,6 @@ location: Behind the terminal
 focus:
   - Desktop apps (WPF / WinForms / WinUI)
   - Automation tools & system utilities
-  - Reverse engineering & client modding
 current_mood: "Vibe coding at 3AM with anime OSTs ☕"
 ```
 
@@ -34,7 +33,6 @@ current_mood: "Vibe coding at 3AM with anime OSTs ☕"
 ### 🌱 Currently
 - 🧠 Learning advanced **.NET & WPF**
 - ⚙️ Building **system tools** & launchers
-- 🔧 Exploring **client modding** & ASAR patching
 - 🎧 Listening to **lo-fi & anime OSTs**
 
 </td>
