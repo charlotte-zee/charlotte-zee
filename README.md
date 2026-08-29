@@ -54,9 +54,9 @@ current_mood: "Vibe coding at 3AM with anime OSTs ☕"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,powershell,cmake,js,ts,nodejs,python&theme=dark" height="45" alt="Core Skills"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,powershell,cmake&theme=dark" height="50" alt="Core Skills"/>
 <br><br>
-<img src="https://skillicons.dev/icons?i=wpf,redux,vite,discord,electron&theme=dark&perline=5" height="45" alt="Frameworks & Tools"/>
+<img src="https://skillicons.dev/icons?i=wpf,windows&theme=dark" height="50" alt="Frameworks"/>
 
 </div>
 
@@ -67,17 +67,17 @@ current_mood: "Vibe coding at 3AM with anime OSTs ☕"
 <div align="center">
 
 <a href="https://github.com/charlotte-zee/kiwi-wand-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlotte-zee&repo=kiwi-wand-pro&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" width="48%"/>
+  <img src="https://gh-card.vercel.app/charlotte-zee/kiwi-wand-pro?theme=tokyonight&border_radius=10" width="48%" alt="Kiwi Wand Pro"/>
 </a>
 <a href="https://github.com/charlotte-zee/ZeeVault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlotte-zee&repo=ZeeVault&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" width="48%"/>
+  <img src="https://gh-card.vercel.app/charlotte-zee/ZeeVault?theme=tokyonight&border_radius=10" width="48%" alt="ZeeVault"/>
 </a>
 <br>
 <a href="https://github.com/charlotte-zee/DefCon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlotte-zee&repo=DefCon&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" width="48%"/>
+  <img src="https://gh-card.vercel.app/charlotte-zee/DefCon?theme=tokyonight&border_radius=10" width="48%" alt="DefCon"/>
 </a>
 <a href="https://github.com/charlotte-zee/qc-ultra-kiwi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=charlotte-zee&repo=qc-ultra-kiwi&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" width="48%"/>
+  <img src="https://gh-card.vercel.app/charlotte-zee/qc-ultra-kiwi?theme=tokyonight&border_radius=10" width="48%" alt="QC Ultra KIWI"/>
 </a>
 
 </div>
@@ -95,18 +95,19 @@ current_mood: "Vibe coding at 3AM with anime OSTs ☕"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=charlotte-zee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00CFFF&icon_color=00CFFF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlotte-zee&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00CFFF&icon_color=00CFFF" width="49%"/>
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charlotte-zee&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=00CFFF&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF" width="85%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=charlotte-zee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Stats"/>
 
 </div>
 
-<br>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charlotte-zee&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="Streak"/>
+
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charlotte-zee&theme=react-dark&hide_border=true&bg_color=0d1117&color=00CFFF&line=00CFFF&point=ffffff&area=true&area_color=00CFFF" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charlotte-zee&theme=react-dark&hide_border=true&bg_color=0d1117&color=00CFFF&line=00CFFF&point=ffffff&area=true&area_color=00CFFF" width="90%" alt="Activity Graph"/>
 
 </div>
 
