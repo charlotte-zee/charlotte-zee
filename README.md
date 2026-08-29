@@ -62,64 +62,12 @@ current_mood: "Vibe coding at 3AM with anime OSTs ☕"
 
 <img src="https://raw.githubusercontent.com/rohan-rawat-2308/assets/main/blue-glow-divider.gif" width="100%" alt="divider"/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-<div align="center">
-
-<a href="https://github.com/charlotte-zee/kiwi-wand-pro">
-  <img src="https://gh-card.vercel.app/charlotte-zee/kiwi-wand-pro?theme=tokyonight&border_radius=10" width="48%" alt="Kiwi Wand Pro"/>
-</a>
-<a href="https://github.com/charlotte-zee/ZeeVault">
-  <img src="https://gh-card.vercel.app/charlotte-zee/ZeeVault?theme=tokyonight&border_radius=10" width="48%" alt="ZeeVault"/>
-</a>
-<br>
-<a href="https://github.com/charlotte-zee/DefCon">
-  <img src="https://gh-card.vercel.app/charlotte-zee/DefCon?theme=tokyonight&border_radius=10" width="48%" alt="DefCon"/>
-</a>
-<a href="https://github.com/charlotte-zee/qc-ultra-kiwi">
-  <img src="https://gh-card.vercel.app/charlotte-zee/qc-ultra-kiwi?theme=tokyonight&border_radius=10" width="48%" alt="QC Ultra KIWI"/>
-</a>
-
-</div>
-
-### 🔥 More Projects
-- 🧩 **Kiwi Wand Pro** — Wand/WeMod enhancement tool with Pro patches & remote panel
-- ⚡ **ZeeVault** — Sleek WPF app launcher & vault for Windows
-- 🛡️ **DefCon** — Windows Defender settings manager with simulated loading
-- 💬 **Discord Token Finder** — Utility for Discord devs
-- 💎 **QC Ultra KIWI** — English extension loader for QC Ultra
-
-<img src="https://raw.githubusercontent.com/rohan-rawat-2308/assets/main/blue-glow-divider.gif" width="100%" alt="divider"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=charlotte-zee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Stats"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charlotte-zee&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=charlotte-zee&theme=react-dark&hide_border=true&bg_color=0d1117&color=00CFFF&line=00CFFF&point=ffffff&area=true&area_color=00CFFF" width="90%" alt="Activity Graph"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/rohan-rawat-2308/assets/main/blue-glow-divider.gif" width="100%" alt="divider"/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=charlotte-zee&theme=discord&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophies"/>
-
-</div>
+- 🧩 [**Kiwi Wand Pro**](https://github.com/charlotte-zee/kiwi-wand-pro) — Wand/WeMod enhancement tool with Pro patches & remote panel
+- ⚡ [**ZeeVault**](https://github.com/charlotte-zee/ZeeVault) — Sleek WPF app launcher & vault for Windows
+- 🛡️ [**DefCon**](https://github.com/charlotte-zee/DefCon) — Windows Defender settings manager with simulated loading
+- 💎 [**QC Ultra KIWI**](https://github.com/charlotte-zee/qc-ultra-kiwi) — English extension loader for QC Ultra
 
 <img src="https://raw.githubusercontent.com/rohan-rawat-2308/assets/main/blue-glow-divider.gif" width="100%" alt="divider"/>
 
